@@ -1,0 +1,589 @@
+[14-Aug-2021 05:25:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monekulm/public_html/koneksi.php on line 3
+[14-Aug-2021 05:26:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monekulm/public_html/koneksi.php on line 3
+[14-Aug-2021 12:26:23 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/monekulm/public_html/koneksi.php on line 3
+[14-Aug-2021 12:26:23 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 12:28:18 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 40
+[14-Aug-2021 12:28:18 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 41
+[14-Aug-2021 12:28:22 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[14-Aug-2021 12:29:36 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 88
+[14-Aug-2021 12:29:36 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 92
+[14-Aug-2021 12:44:55 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 40
+[14-Aug-2021 12:44:55 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 41
+[14-Aug-2021 12:46:48 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[14-Aug-2021 12:47:00 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 60
+[14-Aug-2021 12:47:00 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 61
+[14-Aug-2021 12:57:49 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[14-Aug-2021 12:58:16 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 40
+[14-Aug-2021 12:58:16 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 41
+[14-Aug-2021 12:58:48 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[14-Aug-2021 13:11:36 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 88
+[14-Aug-2021 13:11:36 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 92
+[14-Aug-2021 13:11:45 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 13:11:45 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 13:12:01 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 13:28:11 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 88
+[14-Aug-2021 13:28:11 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 92
+[14-Aug-2021 13:51:45 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 14:23:26 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 88
+[14-Aug-2021 14:23:26 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 92
+[14-Aug-2021 14:27:26 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 14:27:26 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 14:32:22 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 14:32:22 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 14:32:28 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 14:34:08 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 14:34:19 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 88
+[14-Aug-2021 14:34:19 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 92
+[14-Aug-2021 14:34:44 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 14:34:51 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 14:35:07 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 14:54:21 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 60
+[14-Aug-2021 14:54:21 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 61
+[14-Aug-2021 14:55:41 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[14-Aug-2021 14:55:59 Asia/Jakarta] PHP Notice:  Undefined index: dosen_id in /home/monekulm/public_html/logout.php on line 4
+[14-Aug-2021 14:55:59 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[14-Aug-2021 14:56:20 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 14:56:54 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 88
+[14-Aug-2021 14:56:54 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 92
+[14-Aug-2021 14:58:23 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 40
+[14-Aug-2021 14:58:23 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 41
+[14-Aug-2021 15:07:36 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[14-Aug-2021 15:09:13 Asia/Jakarta] PHP Notice:  Undefined index: dosen_id in /home/monekulm/public_html/logout.php on line 4
+[14-Aug-2021 15:09:13 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[14-Aug-2021 15:10:29 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 15:10:40 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 88
+[14-Aug-2021 15:10:40 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 92
+[14-Aug-2021 15:10:54 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 15:11:06 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 15:11:19 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 15:11:57 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 88
+[14-Aug-2021 15:11:57 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 92
+[14-Aug-2021 15:12:02 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 15:12:02 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 15:12:16 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 15:12:16 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 15:12:20 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 15:12:20 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 15:12:38 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 88
+[14-Aug-2021 15:12:38 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 92
+[14-Aug-2021 15:12:51 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 15:12:51 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 15:15:52 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 15:15:52 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 15:17:33 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 15:17:33 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 15:20:40 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 15:21:04 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 88
+[14-Aug-2021 15:21:04 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 92
+[14-Aug-2021 15:22:46 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 40
+[14-Aug-2021 15:22:46 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 41
+[14-Aug-2021 15:45:05 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 88
+[14-Aug-2021 15:45:05 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 92
+[14-Aug-2021 15:47:20 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 16:00:48 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 40
+[14-Aug-2021 16:00:48 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 41
+[14-Aug-2021 16:02:23 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[14-Aug-2021 16:03:11 Asia/Jakarta] PHP Notice:  Undefined index: dosen_id in /home/monekulm/public_html/logout.php on line 4
+[14-Aug-2021 16:03:11 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[14-Aug-2021 16:03:28 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 16:03:28 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 16:04:25 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 16:04:25 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 16:04:29 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 16:04:29 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 16:05:02 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 88
+[14-Aug-2021 16:05:02 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 92
+[14-Aug-2021 16:07:58 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 40
+[14-Aug-2021 16:07:58 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 41
+[14-Aug-2021 16:22:01 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[14-Aug-2021 16:22:10 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 88
+[14-Aug-2021 16:22:10 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 92
+[14-Aug-2021 16:32:28 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 40
+[14-Aug-2021 16:32:28 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 41
+[14-Aug-2021 16:40:09 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[14-Aug-2021 16:40:15 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 40
+[14-Aug-2021 16:40:15 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 41
+[14-Aug-2021 16:43:12 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[14-Aug-2021 18:48:05 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 88
+[14-Aug-2021 18:48:05 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 92
+[14-Aug-2021 18:51:58 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 18:54:33 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 88
+[14-Aug-2021 18:54:33 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 92
+[14-Aug-2021 18:55:36 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 18:55:36 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 18:57:17 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 88
+[14-Aug-2021 18:57:17 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 92
+[14-Aug-2021 18:57:39 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 88
+[14-Aug-2021 18:57:39 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 92
+[14-Aug-2021 18:57:42 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 18:57:42 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 18:58:42 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 18:59:46 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 40
+[14-Aug-2021 18:59:46 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 41
+[14-Aug-2021 19:08:31 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[14-Aug-2021 19:08:51 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 88
+[14-Aug-2021 19:08:51 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 92
+[14-Aug-2021 19:09:18 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 19:09:18 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 20:48:35 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 60
+[14-Aug-2021 20:48:35 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 61
+[14-Aug-2021 20:51:35 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[14-Aug-2021 20:51:40 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 40
+[14-Aug-2021 20:51:40 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 41
+[14-Aug-2021 20:53:10 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[14-Aug-2021 20:53:16 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 60
+[14-Aug-2021 20:53:16 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 61
+[14-Aug-2021 21:21:38 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 88
+[14-Aug-2021 21:21:38 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 92
+[14-Aug-2021 21:22:17 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 88
+[14-Aug-2021 21:22:17 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 92
+[14-Aug-2021 21:22:26 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 40
+[14-Aug-2021 21:22:26 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 41
+[14-Aug-2021 21:23:28 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 88
+[14-Aug-2021 21:23:28 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 92
+[14-Aug-2021 21:25:05 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 88
+[14-Aug-2021 21:25:05 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 92
+[14-Aug-2021 21:25:39 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 88
+[14-Aug-2021 21:25:39 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 92
+[14-Aug-2021 21:27:27 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 88
+[14-Aug-2021 21:27:27 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 92
+[14-Aug-2021 21:27:51 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 21:27:51 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 21:28:58 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 88
+[14-Aug-2021 21:28:58 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 92
+[14-Aug-2021 21:31:25 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[14-Aug-2021 21:31:50 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 21:32:06 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 21:32:43 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 21:32:49 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 21:32:56 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 21:33:15 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 21:33:31 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 21:33:35 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 21:33:35 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 21:34:31 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 21:34:31 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 21:48:58 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 21:48:58 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 21:49:02 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 21:49:02 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 21:50:15 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 21:50:15 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 21:51:26 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 21:51:26 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 21:51:48 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 21:51:48 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 21:51:58 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 21:51:58 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 21:52:18 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[14-Aug-2021 21:52:20 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 21:52:20 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 21:52:25 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 21:52:25 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 21:52:29 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 88
+[14-Aug-2021 21:52:29 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 92
+[14-Aug-2021 21:52:58 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 21:52:58 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 21:53:38 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 21:53:38 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 21:55:13 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 21:55:18 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 21:55:18 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 21:58:37 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 21:58:37 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 21:58:44 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 21:58:44 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 21:58:57 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 60
+[14-Aug-2021 21:58:57 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 61
+[14-Aug-2021 21:59:05 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 21:59:05 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 21:59:16 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 40
+[14-Aug-2021 21:59:16 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 41
+[14-Aug-2021 22:01:00 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[14-Aug-2021 22:01:29 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 22:01:42 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 22:01:42 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 22:02:07 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 22:02:07 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 22:02:16 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 22:02:41 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 40
+[14-Aug-2021 22:02:41 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 41
+[14-Aug-2021 22:08:05 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[14-Aug-2021 22:08:11 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 40
+[14-Aug-2021 22:08:11 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 41
+[14-Aug-2021 22:09:25 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[14-Aug-2021 22:09:59 Asia/Jakarta] PHP Notice:  Undefined index: dosen_id in /home/monekulm/public_html/logout.php on line 4
+[14-Aug-2021 22:09:59 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[14-Aug-2021 22:11:07 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 22:11:07 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 22:11:11 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[14-Aug-2021 22:12:13 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 22:12:31 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 22:12:31 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 22:14:16 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 22:14:45 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 22:14:45 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 22:15:15 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 22:15:15 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 22:16:53 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 60
+[14-Aug-2021 22:16:53 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 61
+[14-Aug-2021 22:20:06 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 60
+[14-Aug-2021 22:20:06 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 61
+[14-Aug-2021 22:20:11 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 60
+[14-Aug-2021 22:20:11 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 61
+[14-Aug-2021 22:20:26 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 22:20:26 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 22:23:29 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 22:23:29 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 22:24:01 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[14-Aug-2021 22:24:01 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[14-Aug-2021 22:24:43 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 60
+[14-Aug-2021 22:24:43 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 61
+[14-Aug-2021 22:29:59 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 88
+[14-Aug-2021 22:29:59 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 92
+[14-Aug-2021 22:32:55 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 88
+[14-Aug-2021 22:32:55 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 92
+[14-Aug-2021 22:33:16 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 88
+[14-Aug-2021 22:33:16 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 92
+[14-Aug-2021 22:33:55 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 22:35:54 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[14-Aug-2021 22:36:18 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 21
+[14-Aug-2021 22:36:18 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 22
+[14-Aug-2021 22:36:36 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[14-Aug-2021 22:36:36 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[14-Aug-2021 22:36:56 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[14-Aug-2021 22:36:56 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[14-Aug-2021 22:37:00 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[14-Aug-2021 22:37:00 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[14-Aug-2021 22:39:43 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[14-Aug-2021 22:39:43 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[14-Aug-2021 22:40:04 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[14-Aug-2021 22:40:04 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[14-Aug-2021 22:40:16 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[14-Aug-2021 22:40:16 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[14-Aug-2021 22:40:22 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[14-Aug-2021 22:40:22 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[14-Aug-2021 22:40:38 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[14-Aug-2021 22:40:38 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[14-Aug-2021 22:40:55 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[14-Aug-2021 22:40:55 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[14-Aug-2021 22:40:57 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[14-Aug-2021 22:40:57 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[14-Aug-2021 22:42:16 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[14-Aug-2021 22:42:16 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[14-Aug-2021 22:42:42 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 40
+[14-Aug-2021 22:42:42 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 41
+[14-Aug-2021 22:42:46 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[14-Aug-2021 22:44:09 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[14-Aug-2021 22:44:18 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 40
+[14-Aug-2021 22:44:18 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 41
+[14-Aug-2021 22:44:27 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[14-Aug-2021 22:44:36 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 60
+[14-Aug-2021 22:44:36 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 61
+[14-Aug-2021 22:45:59 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 60
+[14-Aug-2021 22:45:59 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 61
+[14-Aug-2021 22:46:03 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[14-Aug-2021 22:46:19 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 60
+[14-Aug-2021 22:46:19 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 61
+[14-Aug-2021 22:47:44 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[14-Aug-2021 22:49:22 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[14-Aug-2021 22:55:42 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[14-Aug-2021 16:01:00 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 17
+[14-Aug-2021 16:02:24 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 17
+[14-Aug-2021 16:07:47 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 44
+[14-Aug-2021 16:07:54 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 44
+[14-Aug-2021 16:14:48 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 12
+[14-Aug-2021 16:14:58 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 12
+[14-Aug-2021 16:14:59 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 12
+[14-Aug-2021 16:15:00 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 12
+[14-Aug-2021 16:15:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 12
+[14-Aug-2021 16:15:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 12
+[14-Aug-2021 16:15:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 12
+[14-Aug-2021 16:15:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 12
+[14-Aug-2021 16:15:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 12
+[14-Aug-2021 16:15:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 12
+[14-Aug-2021 16:15:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 12
+[14-Aug-2021 16:15:30 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 12
+[14-Aug-2021 16:15:30 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 12
+[14-Aug-2021 16:15:30 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 12
+[14-Aug-2021 16:15:50 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 12
+[14-Aug-2021 16:15:54 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 12
+[14-Aug-2021 16:15:55 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 12
+[14-Aug-2021 16:15:55 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 12
+[14-Aug-2021 16:15:55 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 12
+[14-Aug-2021 16:15:56 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 12
+[14-Aug-2021 16:15:56 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 12
+[14-Aug-2021 16:15:56 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 12
+[14-Aug-2021 16:15:57 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 12
+[14-Aug-2021 16:16:31 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 12
+[14-Aug-2021 16:16:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 12
+[14-Aug-2021 16:16:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 12
+[14-Aug-2021 16:16:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/kirim.php on line 12
+[15-Aug-2021 08:01:37 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[15-Aug-2021 08:01:37 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[15-Aug-2021 08:01:43 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[15-Aug-2021 08:01:43 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[15-Aug-2021 08:02:10 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 60
+[15-Aug-2021 08:02:10 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 61
+[15-Aug-2021 17:51:28 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[15-Aug-2021 17:51:28 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[15-Aug-2021 17:52:44 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[15-Aug-2021 17:54:07 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 40
+[15-Aug-2021 17:54:07 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 41
+[15-Aug-2021 17:56:40 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[15-Aug-2021 17:57:18 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[15-Aug-2021 17:57:57 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[15-Aug-2021 22:57:55 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 40
+[15-Aug-2021 22:57:55 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 41
+[15-Aug-2021 22:59:12 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[15-Aug-2021 23:15:42 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[15-Aug-2021 23:15:42 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[15-Aug-2021 23:17:13 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[15-Aug-2021 23:17:13 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[15-Aug-2021 23:17:50 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[15-Aug-2021 23:17:50 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[15-Aug-2021 23:18:12 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 21
+[15-Aug-2021 23:18:12 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 22
+[15-Aug-2021 23:18:45 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[15-Aug-2021 23:18:51 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[15-Aug-2021 23:18:51 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[15-Aug-2021 23:20:04 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[15-Aug-2021 23:20:04 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[15-Aug-2021 23:20:39 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[15-Aug-2021 23:20:39 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[15-Aug-2021 23:20:49 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 21
+[15-Aug-2021 23:20:49 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 22
+[15-Aug-2021 23:22:36 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[15-Aug-2021 23:22:36 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[15-Aug-2021 23:27:10 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[15-Aug-2021 23:27:12 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[15-Aug-2021 23:27:28 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 40
+[15-Aug-2021 23:27:28 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 41
+[15-Aug-2021 23:29:47 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[15-Aug-2021 23:29:58 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[15-Aug-2021 23:29:58 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[15-Aug-2021 23:30:24 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[15-Aug-2021 23:30:24 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[15-Aug-2021 23:32:49 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[15-Aug-2021 23:32:49 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[15-Aug-2021 23:33:42 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[15-Aug-2021 23:33:42 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[15-Aug-2021 23:35:27 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[15-Aug-2021 23:35:27 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[15-Aug-2021 23:37:44 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[15-Aug-2021 23:37:44 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[15-Aug-2021 23:38:17 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[15-Aug-2021 23:38:17 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[15-Aug-2021 23:38:29 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 60
+[15-Aug-2021 23:38:29 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 61
+[15-Aug-2021 23:41:01 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 21
+[15-Aug-2021 23:41:01 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 22
+[15-Aug-2021 23:42:39 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[15-Aug-2021 23:42:55 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[15-Aug-2021 23:43:01 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[15-Aug-2021 23:43:27 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[15-Aug-2021 23:44:10 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[15-Aug-2021 23:44:15 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[15-Aug-2021 23:44:40 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 40
+[15-Aug-2021 23:44:40 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 41
+[15-Aug-2021 23:50:01 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[15-Aug-2021 23:50:08 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[15-Aug-2021 23:50:08 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[15-Aug-2021 23:52:12 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[15-Aug-2021 23:52:12 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[15-Aug-2021 23:52:30 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[15-Aug-2021 23:52:30 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[15-Aug-2021 23:53:05 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[15-Aug-2021 23:53:05 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[15-Aug-2021 23:55:26 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[15-Aug-2021 23:55:26 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[15-Aug-2021 23:56:14 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/monekulm/public_html/functions.php on line 13
+[15-Aug-2021 23:56:14 Asia/Jakarta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/monekulm/public_html/functions.php on line 14
+[15-Aug-2021 23:56:14 Asia/Jakarta] PHP Warning:  implode(): Invalid arguments passed in /home/monekulm/public_html/functions.php on line 15
+[15-Aug-2021 23:56:38 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[15-Aug-2021 23:56:38 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[15-Aug-2021 23:57:03 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[15-Aug-2021 23:58:13 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[15-Aug-2021 23:58:25 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[15-Aug-2021 23:58:32 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[15-Aug-2021 23:58:32 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[15-Aug-2021 23:59:25 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[15-Aug-2021 23:59:25 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[15-Aug-2021 23:59:43 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[15-Aug-2021 23:59:43 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[16-Aug-2021 00:03:39 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[16-Aug-2021 00:03:39 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[16-Aug-2021 00:05:26 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[16-Aug-2021 00:05:26 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[16-Aug-2021 00:05:32 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[16-Aug-2021 00:05:32 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[16-Aug-2021 00:06:02 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[16-Aug-2021 00:06:02 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[16-Aug-2021 00:06:15 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 60
+[16-Aug-2021 00:06:15 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 61
+[16-Aug-2021 00:07:56 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 60
+[16-Aug-2021 00:07:56 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 61
+[16-Aug-2021 00:11:00 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[16-Aug-2021 04:56:58 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[16-Aug-2021 09:50:58 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[16-Aug-2021 09:50:58 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[16-Aug-2021 10:00:10 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/monekulm/public_html/functions.php on line 47
+[16-Aug-2021 10:01:25 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[16-Aug-2021 10:01:25 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[16-Aug-2021 10:01:28 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[16-Aug-2021 10:01:28 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[16-Aug-2021 10:02:01 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/monekulm/public_html/functions.php on line 47
+[16-Aug-2021 10:04:43 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[16-Aug-2021 10:04:43 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[16-Aug-2021 10:11:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqi_fetch_assoc() in /home/monekulm/public_html/functions.php:49
+Stack trace:
+#0 /home/monekulm/public_html/register.php(5): registrasi(Array)
+#1 {main}
+  thrown in /home/monekulm/public_html/functions.php on line 49
+[16-Aug-2021 10:11:15 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[16-Aug-2021 10:11:15 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[16-Aug-2021 10:11:26 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[16-Aug-2021 10:11:26 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[16-Aug-2021 10:13:47 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[16-Aug-2021 10:13:47 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[16-Aug-2021 03:13:49 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 10:13:57 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[16-Aug-2021 10:13:57 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[16-Aug-2021 03:13:59 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:14:04 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 10:14:22 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[16-Aug-2021 10:14:22 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[16-Aug-2021 10:14:36 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[16-Aug-2021 10:14:36 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[16-Aug-2021 03:14:38 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:14:59 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:15:00 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:15:00 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:15:01 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:15:02 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:15:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:15:12 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:15:12 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:15:13 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:15:13 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:15:13 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:15:13 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:15:13 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:15:14 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:15:14 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:15:16 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:15:21 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:15:22 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:15:22 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 10:15:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 10:15:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 10:16:02 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[16-Aug-2021 10:16:02 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[16-Aug-2021 03:16:04 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:16:26 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:16:27 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:16:27 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:16:27 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:16:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:16:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:16:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:16:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:16:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:16:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:17:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:17:30 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 10:17:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 10:18:11 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[16-Aug-2021 10:18:17 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[16-Aug-2021 10:18:17 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[16-Aug-2021 10:18:40 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[16-Aug-2021 10:19:28 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[16-Aug-2021 10:19:28 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[16-Aug-2021 03:19:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:19:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 65
+[16-Aug-2021 03:20:02 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 62
+[16-Aug-2021 03:20:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 62
+[16-Aug-2021 03:20:42 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 62
+[16-Aug-2021 03:20:43 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 62
+[16-Aug-2021 03:20:44 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 62
+[16-Aug-2021 03:20:44 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 62
+[16-Aug-2021 03:20:45 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 62
+[16-Aug-2021 03:20:45 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 62
+[16-Aug-2021 03:20:46 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 62
+[16-Aug-2021 03:20:46 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/monekulm/public_html/functions.php on line 62
+[16-Aug-2021 03:23:36 UTC] PHP Parse error:  syntax error, unexpected 'mysqli_query' (T_STRING) in /home/monekulm/public_html/functions.php on line 50
+[16-Aug-2021 10:33:58 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[16-Aug-2021 10:33:58 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[16-Aug-2021 10:37:27 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 60
+[16-Aug-2021 10:37:27 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 61
+[16-Aug-2021 10:51:47 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[16-Aug-2021 10:51:47 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[16-Aug-2021 10:53:04 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[16-Aug-2021 10:53:04 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[16-Aug-2021 10:54:02 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 60
+[16-Aug-2021 10:54:02 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 61
+[16-Aug-2021 13:00:56 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[16-Aug-2021 13:13:44 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[16-Aug-2021 13:13:50 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[16-Aug-2021 13:13:50 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[16-Aug-2021 13:13:53 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[16-Aug-2021 13:14:54 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 40
+[16-Aug-2021 13:14:54 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 41
+[16-Aug-2021 13:18:52 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[16-Aug-2021 13:18:55 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[16-Aug-2021 13:18:55 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[16-Aug-2021 13:20:16 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[16-Aug-2021 13:20:16 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[16-Aug-2021 13:22:47 Asia/Jakarta] PHP Notice:  Undefined index: kelas in /home/monekulm/public_html/functions.php on line 13
+[16-Aug-2021 13:22:47 Asia/Jakarta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/monekulm/public_html/functions.php on line 14
+[16-Aug-2021 13:22:47 Asia/Jakarta] PHP Warning:  implode(): Invalid arguments passed in /home/monekulm/public_html/functions.php on line 15
+[16-Aug-2021 13:23:13 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[16-Aug-2021 13:23:13 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[16-Aug-2021 13:27:07 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[16-Aug-2021 13:27:07 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[16-Aug-2021 13:27:13 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[16-Aug-2021 13:27:13 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[16-Aug-2021 13:27:26 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[16-Aug-2021 13:27:26 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[16-Aug-2021 13:28:00 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[16-Aug-2021 13:28:00 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[16-Aug-2021 13:28:24 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 60
+[16-Aug-2021 13:28:24 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 61
+[16-Aug-2021 13:28:33 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[16-Aug-2021 13:28:33 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[16-Aug-2021 13:30:22 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[16-Aug-2021 13:30:22 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[16-Aug-2021 13:31:31 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[16-Aug-2021 13:31:31 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[16-Aug-2021 13:31:52 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[16-Aug-2021 13:31:52 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[16-Aug-2021 13:33:09 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[16-Aug-2021 13:33:09 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[16-Aug-2021 13:33:26 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[16-Aug-2021 13:33:26 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[16-Aug-2021 13:38:07 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[16-Aug-2021 13:39:00 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[16-Aug-2021 13:39:12 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 21
+[16-Aug-2021 13:39:12 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 22
+[16-Aug-2021 13:39:13 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 21
+[16-Aug-2021 13:39:13 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 22
+[16-Aug-2021 13:43:07 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[16-Aug-2021 13:43:07 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[16-Aug-2021 13:43:10 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[16-Aug-2021 13:43:10 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[16-Aug-2021 13:43:11 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 90
+[16-Aug-2021 13:43:11 Asia/Jakarta] PHP Notice:  Undefined variable: idmatkul in /home/monekulm/public_html/dosenAbsen.php on line 94
+[16-Aug-2021 13:43:37 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[16-Aug-2021 13:43:44 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 40
+[16-Aug-2021 13:43:44 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 41
+[16-Aug-2021 13:47:00 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[16-Aug-2021 13:47:03 Asia/Jakarta] PHP Notice:  Undefined variable: dataNama in /home/monekulm/public_html/registrasi.php on line 87
+[16-Aug-2021 14:41:02 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 89
+[16-Aug-2021 14:41:02 Asia/Jakarta] PHP Notice:  Undefined variable: idkelas in /home/monekulm/public_html/mahasiswaAbsen.php on line 93
+[16-Aug-2021 17:36:16 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 40
+[16-Aug-2021 17:36:16 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 41
+[17-Aug-2021 12:05:54 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 40
+[17-Aug-2021 12:05:54 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 41
+[17-Aug-2021 12:07:39 Asia/Jakarta] PHP Warning:  Use of undefined constant session_destroy - assumed 'session_destroy' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/logout.php on line 10
+[17-Aug-2021 12:07:48 Asia/Jakarta] PHP Notice:  Undefined index: jk in /home/monekulm/public_html/login.php on line 40
+[17-Aug-2021 12:07:48 Asia/Jakarta] PHP Notice:  Undefined index: tgl_lahir in /home/monekulm/public_html/login.php on line 41

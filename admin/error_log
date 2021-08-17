@@ -1,0 +1,44 @@
+[14-Aug-2021 14:58:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/monekulm/public_html/functions.php on line 88
+[14-Aug-2021 15:01:50 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/monekulm/public_html/functions.php on line 110
+[14-Aug-2021 15:23:00 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/monekulm/public_html/functions.php on line 88
+[14-Aug-2021 15:28:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/monekulm/public_html/functions.php on line 110
+[14-Aug-2021 16:01:21 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/monekulm/public_html/functions.php on line 88
+[14-Aug-2021 16:01:36 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/monekulm/public_html/functions.php on line 110
+[14-Aug-2021 16:01:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/monekulm/public_html/functions.php on line 110
+[14-Aug-2021 16:08:14 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/monekulm/public_html/functions.php on line 88
+[14-Aug-2021 16:35:22 Asia/Jakarta] PHP Warning:  Use of undefined constant gender - assumed 'gender' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/admin/profil.php on line 182
+[14-Aug-2021 16:35:22 Asia/Jakarta] PHP Notice:  Undefined variable: no_hp in /home/monekulm/public_html/admin/profil.php on line 193
+[14-Aug-2021 16:35:27 Asia/Jakarta] PHP Warning:  Use of undefined constant gender - assumed 'gender' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/admin/profil.php on line 182
+[14-Aug-2021 16:35:27 Asia/Jakarta] PHP Notice:  Undefined variable: no_hp in /home/monekulm/public_html/admin/profil.php on line 193
+[14-Aug-2021 16:35:58 Asia/Jakarta] PHP Warning:  Use of undefined constant gender - assumed 'gender' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/admin/profil.php on line 182
+[14-Aug-2021 16:35:58 Asia/Jakarta] PHP Notice:  Undefined variable: no_hp in /home/monekulm/public_html/admin/profil.php on line 193
+[14-Aug-2021 16:38:22 Asia/Jakarta] PHP Notice:  Undefined variable: dosen_id in /home/monekulm/public_html/admin/tambahkelas.php on line 139
+[14-Aug-2021 16:38:24 Asia/Jakarta] PHP Notice:  Undefined variable: dosen_id in /home/monekulm/public_html/admin/tambahmatkul.php on line 144
+[14-Aug-2021 16:38:25 Asia/Jakarta] PHP Notice:  Undefined variable: dosen_id in /home/monekulm/public_html/admin/tambahkelas.php on line 139
+[14-Aug-2021 16:38:25 Asia/Jakarta] PHP Notice:  Undefined variable: dosen_id in /home/monekulm/public_html/admin/tambahmatkul.php on line 144
+[14-Aug-2021 16:38:26 Asia/Jakarta] PHP Notice:  Undefined variable: dosen_id in /home/monekulm/public_html/admin/tambahakun.php on line 149
+[14-Aug-2021 16:38:26 Asia/Jakarta] PHP Notice:  Undefined variable: dosen_id in /home/monekulm/public_html/admin/tambahmatkul.php on line 144
+[14-Aug-2021 16:38:29 Asia/Jakarta] PHP Warning:  Use of undefined constant gender - assumed 'gender' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/admin/profil.php on line 182
+[14-Aug-2021 16:38:29 Asia/Jakarta] PHP Notice:  Undefined variable: no_hp in /home/monekulm/public_html/admin/profil.php on line 193
+[14-Aug-2021 16:38:34 Asia/Jakarta] PHP Notice:  Undefined variable: dosen_id in /home/monekulm/public_html/admin/tambahmatkul.php on line 144
+[14-Aug-2021 16:38:36 Asia/Jakarta] PHP Warning:  Use of undefined constant gender - assumed 'gender' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/admin/profil.php on line 182
+[14-Aug-2021 16:38:36 Asia/Jakarta] PHP Notice:  Undefined variable: no_hp in /home/monekulm/public_html/admin/profil.php on line 193
+[14-Aug-2021 16:38:40 Asia/Jakarta] PHP Warning:  Use of undefined constant gender - assumed 'gender' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/admin/profil.php on line 182
+[14-Aug-2021 16:38:40 Asia/Jakarta] PHP Notice:  Undefined variable: no_hp in /home/monekulm/public_html/admin/profil.php on line 193
+[14-Aug-2021 16:40:24 Asia/Jakarta] PHP Warning:  Use of undefined constant gender - assumed 'gender' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/admin/profil.php on line 182
+[14-Aug-2021 16:40:24 Asia/Jakarta] PHP Notice:  Undefined variable: no_hp in /home/monekulm/public_html/admin/profil.php on line 193
+[14-Aug-2021 16:40:31 Asia/Jakarta] PHP Warning:  Use of undefined constant gender - assumed 'gender' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/admin/profil.php on line 182
+[14-Aug-2021 16:40:31 Asia/Jakarta] PHP Notice:  Undefined variable: no_hp in /home/monekulm/public_html/admin/profil.php on line 193
+[14-Aug-2021 16:40:38 Asia/Jakarta] PHP Warning:  Use of undefined constant gender - assumed 'gender' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/admin/profil.php on line 182
+[14-Aug-2021 16:40:38 Asia/Jakarta] PHP Notice:  Undefined variable: no_hp in /home/monekulm/public_html/admin/profil.php on line 193
+[14-Aug-2021 18:59:53 Asia/Jakarta] PHP Warning:  Use of undefined constant gender - assumed 'gender' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/admin/profil.php on line 182
+[14-Aug-2021 18:59:53 Asia/Jakarta] PHP Notice:  Undefined variable: no_hp in /home/monekulm/public_html/admin/profil.php on line 193
+[14-Aug-2021 22:08:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/monekulm/public_html/functions.php on line 109
+[14-Aug-2021 22:09:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/monekulm/public_html/functions.php on line 109
+[15-Aug-2021 17:54:26 Asia/Jakarta] PHP Warning:  Use of undefined constant gender - assumed 'gender' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/admin/profil.php on line 182
+[15-Aug-2021 17:54:26 Asia/Jakarta] PHP Notice:  Undefined variable: no_hp in /home/monekulm/public_html/admin/profil.php on line 193
+[15-Aug-2021 17:56:33 Asia/Jakarta] PHP Warning:  Use of undefined constant gender - assumed 'gender' (this will throw an Error in a future version of PHP) in /home/monekulm/public_html/admin/profil.php on line 182
+[15-Aug-2021 17:56:33 Asia/Jakarta] PHP Notice:  Undefined variable: no_hp in /home/monekulm/public_html/admin/profil.php on line 193
+[15-Aug-2021 23:28:04 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/monekulm/public_html/functions.php on line 109
+[15-Aug-2021 23:49:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/monekulm/public_html/functions.php on line 109
+[16-Aug-2021 13:18:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/monekulm/public_html/functions.php on line 118
